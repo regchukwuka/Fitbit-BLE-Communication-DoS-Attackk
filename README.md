@@ -1,7 +1,7 @@
 
 # Fitbit Sense BLE Communication
 
-This project provides a script to communicate with a Fitbit Sense smartwatch using the BLE (Bluetooth Low Energy) protocol. It sends a large set of data in chunks to a specified characteristic on the device.
+This project provides a script to communicate with a Fitbit Sense smartwatch using the BLE (Bluetooth Low Energy) protocol. It sends a large set of data in chunks to a specified characteristic on the device. Therby denying the Fitbit mobile app access to the wristwatch data until the attack is over.
 
 ## Requirements
 
